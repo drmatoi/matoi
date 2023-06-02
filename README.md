@@ -12,8 +12,8 @@ Please report not working links in "Issues"
 * `ls`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
-* `cd start`
-* `bash start`
+* `cd start.sh`
+* `bash start.sh`
 
 ## Need to Update/Reset the Tool.
 type
